@@ -25,7 +25,7 @@ __version__ = 'rifle 1.9.3'
 
 # Options and constants that a user might want to change:
 DEFAULT_PAGER = 'less'
-DEFAULT_EDITOR = 'vim'
+DEFAULT_EDITOR = 'nvim'
 ASK_COMMAND = 'ask'
 ENCODING = 'utf-8'
 
